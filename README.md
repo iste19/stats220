@@ -9,7 +9,7 @@ This repository includes some projects done in stats 220 @UOA
 4. unknown
 5. unknown
 
-**note**: For all the above projects, R code is used in Rstudio. Some packaged required to install is magick and tidyverse.
+**Disclaimer**: For all the above projects, R code is used in Rstudio. Some packaged required to install is magick and tidyverse.
 
 
 *Useful R [tips and tricks](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)*
