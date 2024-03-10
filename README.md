@@ -11,7 +11,6 @@ This repository includes some projects done in stats 220 @UOA
 
 **note**: For all the above projects, R code is used in Rstudio. Some packaged required to install is magick and tidyverse.
 
-For more information about the course, visit [the official course website](https://www.example.com/stats220).
 
 *Useful R [tips and tricks](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)*
 
