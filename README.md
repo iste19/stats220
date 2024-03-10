@@ -1,6 +1,6 @@
 # stats220
 
-This repository includes some projects done in stats 2020 @UOA
+This repository includes some projects done in stats 220 @UOA
 
 ## Projects:
 1. Building a meme
@@ -13,7 +13,7 @@ This repository includes some projects done in stats 2020 @UOA
 
 For more information about the course, visit [the official course website](https://www.example.com/stats220).
 
-*Useful R [tips and tricks]*(https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)
+*Useful R [tips and tricks](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/)*
 
 Goal through these projects
 * Be comfortable with R
