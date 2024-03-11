@@ -3,7 +3,7 @@
 This repository includes some projects done in stats 220 @UOA
 
 ## Projects:
-1. Building a meme
+1. [Building a meme](https://iste19.github.io/stats220/)
 2. unknown
 3. unknown
 4. unknown
