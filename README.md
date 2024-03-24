@@ -4,7 +4,7 @@ This repository includes some projects done in stats 220 @UOA
 
 ## Projects:
 1. [Building a meme](https://iste19.github.io/stats220/)
-2. [Creating web-based dynamic reporting systems](https://iste19.github.io/stats220/)
+2. [Creating web-based dynamic reporting systems](file:///Users/istefatsawda/Downloads/project2_report.html)
 3. unknown
 4. unknown
 5. unknown
